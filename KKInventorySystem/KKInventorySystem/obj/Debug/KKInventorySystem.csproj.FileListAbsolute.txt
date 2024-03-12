@@ -1,0 +1,10 @@
+C:\Users\bboyk\source\repos\KKInventorySystem\KKInventorySystem\bin\Debug\KKInventorySystem.exe.config
+C:\Users\bboyk\source\repos\KKInventorySystem\KKInventorySystem\bin\Debug\KKInventorySystem.exe
+C:\Users\bboyk\source\repos\KKInventorySystem\KKInventorySystem\bin\Debug\KKInventorySystem.pdb
+C:\Users\bboyk\source\repos\KKInventorySystem\KKInventorySystem\obj\Debug\KKInventorySystem.csproj.AssemblyReference.cache
+C:\Users\bboyk\source\repos\KKInventorySystem\KKInventorySystem\obj\Debug\KKInventorySystem.Form1.resources
+C:\Users\bboyk\source\repos\KKInventorySystem\KKInventorySystem\obj\Debug\KKInventorySystem.Properties.Resources.resources
+C:\Users\bboyk\source\repos\KKInventorySystem\KKInventorySystem\obj\Debug\KKInventorySystem.csproj.GenerateResource.cache
+C:\Users\bboyk\source\repos\KKInventorySystem\KKInventorySystem\obj\Debug\KKInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\bboyk\source\repos\KKInventorySystem\KKInventorySystem\obj\Debug\KKInventorySystem.exe
+C:\Users\bboyk\source\repos\KKInventorySystem\KKInventorySystem\obj\Debug\KKInventorySystem.pdb
